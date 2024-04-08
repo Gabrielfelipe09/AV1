@@ -10,4 +10,7 @@
 
 # [AULA MARKDOWN](https://github.com/Gabrielfelipe09/aulaMarkdown)
 
-### O trabalho do markdown foi importante 
+### O trabalho do markdown foi importante para apresentar os tipos de engenharia de resquisitos e o que elas podem ser usadas profissionamente e no cotidiano também
+
+### Aluno: Gabriel Felipe
+### Turma: 1 D
